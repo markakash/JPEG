@@ -1,0 +1,3 @@
+/Users/akash/Documents/University/3e_Bach/Multimedia/Labo4/JPEG/JpegEncoder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/akash/Documents/University/3e_Bach/Multimedia/Labo4/JPEG/JpegEncoder/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/akash/Documents/University/3e_Bach/Multimedia/Labo4/JPEG/JpegEncoder/cmake-build-debug/CMakeFiles/pract_jpeg.dir

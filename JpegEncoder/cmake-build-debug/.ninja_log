@@ -1,0 +1,5 @@
+# ninja log v5
+0	465	1652646144348405116	CMakeFiles/pract_jpeg.dir/src/jpeg_encoder.cpp.o	54b52bac96924280
+1491	1557	1652651043480764973	pract_jpeg	9dcd2bbf70e6af4c
+0	824	1652646144706648348	CMakeFiles/pract_jpeg.dir/src/ppm.cpp.o	6466ba673be0a37c
+1	1491	1652651043389682441	CMakeFiles/pract_jpeg.dir/src/main.cpp.o	7ae25b5cefd3a567
